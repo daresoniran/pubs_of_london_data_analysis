@@ -1,9 +1,19 @@
-# Pubs of London
+## Data analysis and visualisations for dashboard<br/>
 <br/>
-A team project for the Introduction to Python course by CFG, sponsored by Bank of America from flask import Flask, render_template <br/>
+Task 1: Aggregation of total number of pubs per London borough with csv<br/>
 <br/>
-app = Flask('pub_flask') #can be renamed once uploaded online<br/>
+Task 2: Appending list of dictionares with csv<br/>
 <br/>
-@app.route('/') def map_of_london_pubs(): return render_template("pubs_of_london.html")<br/>
+Task 3.1: Bar chart with panda and plotly<br/>
 <br/>
-if pub_flask == "main": app.run(debug=False, host = '0.0.0.0')<br/>
+Task 3.2: Horizontal bar chart with mean line with panda and matplotliby<br/>
+<br/>
+Task 3.3: Horizontal bar chart with mean line with panda and matplotlib (attempt to include annotation)<br/>
+<br/>
+Task 3.4: Bar chart and pie chart by partner @mhaikunchorn<br/>
+<br/>
+Task 4: Pie chart with panda and matplotlib<br/>
+<br/>
+Task 5: Failed ttempt and chloropeth map. Geomap with marker with csv, foliom and re<br/>
+<br/>
+Task 6: Heat map with csv, folium and geocoder.
